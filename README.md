@@ -2,6 +2,9 @@
 
 This application is a simple Electron wrapper around http://messenger.recon.com. I made it few weeks / months ago. I hope the folks at [Recon](http://recon.com) didn't mind if I share it with you since ... you know ... It's not a big deal and some of you may prefer having a little companion app rather a window browser.
 
+## 📦 Download
+You can simply go to the [release page](https://github.com/clawfire/recon-messenger/releases) and grap the latest release 👍🏼
+
 ## 📸 Screenshots
 
 ![](https://cl.ly/h217/01.png)
