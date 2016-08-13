@@ -4,9 +4,10 @@ This application is a simple Electron wrapper around http://messenger.recon.com.
 
 ## 📸 Screenshots
 
-## 🐛 Known bugs
+![](https://cl.ly/h217/01.png)
+![](https://cl.ly/h2rU/02.png)
 
-1. **App crashing when clicking a profile name :** So far, when you click on a profil to open it on a separate window, the app crash. Don't really know why. Feel free to open an issue if it's not yet done. And if you have some clues, I take it :) 
+## 🐛 Known bugs
 
 You spotted a bug not on this list ? Congratulation 🎉 You know can [submit an issue](https://github.com/clawfire/recon-messenger/issues) on the repository following the issues guidelines.
 
