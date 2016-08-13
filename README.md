@@ -14,3 +14,5 @@ You spotted a bug not on this list ? Congratulation 🎉 You know can [submit an
 
 ### How is it made ?
 I use [Nativefier](https://github.com/jiahaog/nativefier) with this commande line `nativefier --name "Recon Messenger" --icon "~/Downloads/recon.icns" --width 524 --height 695 -f --disable-dev-tools -e 1.1.3 "https://messages.recon.com"`
+
+Made with ❤️ on a  with [Textmate](https://macromates.com/)
